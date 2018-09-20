@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/Caculator.dir/main.c.o  -o Caculator.exe -Wl,--out-implib,libCaculator.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
